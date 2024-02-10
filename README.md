@@ -2,12 +2,8 @@
 <h3 align="center">A passionate junior software developer.</h3>
 
 - 🌱 I’m currently learning **Django, ReactJS**
-
 - 👨‍💻 All of my projects are available at [https://nnisik.github.io/](https://nnisik.github.io/)
-
 - 📫 How to reach me **samnina805@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/12Gshvfu5TSJPvaWMpJ9f2slWQRFeacwAU9Ai-pacwR0/edit?usp=sharing](https://docs.google.com/document/d/12Gshvfu5TSJPvaWMpJ9f2slWQRFeacwAU9Ai-pacwR0/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
