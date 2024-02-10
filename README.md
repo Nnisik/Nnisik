@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nina</h1>
 <h3 align="center">A passionate junior software developer.</h3>
 
-- 🌱 I’m currently learning **Django, ReactJS**
+- 🌱 I’m currently learning **C, C++, Django, ReactJS**
 - 👨‍💻 All of my projects are available at [https://nnisik.github.io/](https://nnisik.github.io/)
 - 📫 How to reach me **samnina805@gmail.com**
 
