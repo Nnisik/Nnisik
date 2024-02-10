@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nina</h1>
 <h3 align="center">A passionate junior software developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnisik" alt="nnisik" /></a> </p>
-
 - 🌱 I’m currently learning **Django, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://nnisik.github.io/](https://nnisik.github.io/)
