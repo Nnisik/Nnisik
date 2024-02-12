@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nina</h1>
 <h3 align="center">A passionate junior full-stack developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnisik&label=Profile%20views&color=0e75b6&style=flat" alt="nnisik" /> </p>
+
 - 🌱 I’m currently learning **Django, ReactJS, Java**
 
-- 👨‍💻 All of my projects are available at [https://nnisik.github.io/](https://nnisik.github.io/)
+- 👨‍💻 All of my projects are available at [Nnisik](https://nnisik.github.io/)
 
 - 📫 How to reach me **samnina805@gmail.com**
 
