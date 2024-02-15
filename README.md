@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnisik&label=Profile%20views&color=0e75b6&style=flat" alt="nnisik" /> </p>
 
-- 🌱 I’m currently learning **Django, ReactJS, Java**
+- 🌱 I’m currently learning **Django, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://nnisik.github.io/](https://nnisik.github.io/)
 
