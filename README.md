@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, ReactJS**
 
-- 👨‍💻 All of my projects are available [here]([https://nnisik.github.io/portfolio](https://nnisik.github.io/portfolio/))
+- 👨‍💻 All of my projects are available [[here](https://nnisik.github.io/portfolio/)]
 
 - 📫 How to reach me **samnina805@gmail.com**
 
