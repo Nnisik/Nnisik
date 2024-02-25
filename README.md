@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nina</h1>
-<h3 align="center">A passionate junior full-stack developer</h3>
+<h3 align="center">A passionate junior front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnisik&label=Profile%20views&color=0e75b6&style=flat" alt="nnisik" /> </p>
 
-- 🌱 I’m currently learning **Django, ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available [[here](https://nnisik.github.io/portfolio/)]
 
@@ -30,9 +30,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
