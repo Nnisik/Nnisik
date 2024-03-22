@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS & Java**
 
-- 👨‍💻 All of my projects are available at [https://nnisik.github.io/](https://nnisik.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://nnisik.github.io/portfolio/)
 
 - 📫 How to reach me **samnina805@gmail.com**
 
