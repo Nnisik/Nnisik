@@ -2,8 +2,9 @@
 <h3 align="center">A passionate junior software developer.</h3>
 
 
+<!--
 - 🔭 I’m currently working on [theme switcher](https://github.com/Nnisik/theme-switcher)
-
+-->
 - 🌱 I’m currently learning **React JS & Java**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://nnisik.github.io/)
