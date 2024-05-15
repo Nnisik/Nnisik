@@ -2,10 +2,8 @@
 <h3 align="center">A passionate junior frontend developer.</h3>
 
 
-<!--
-- 🔭 I’m currently working on [theme switcher](https://github.com/Nnisik/theme-switcher)
--->
-- 🌱 I’m currently learning **React JS & Java**
+
+- 🌱 I’m currently learning **React.JS**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://nnisik.github.io/)
 
@@ -13,13 +11,8 @@
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/12Gshvfu5TSJPvaWMpJ9f2slWQRFeacwAU9Ai-pacwR0/edit?usp=sharing)
 
-- ⚡ Fun fact **I can profeccionaly make any type of coffee drink.**
+- ⚡ Fun fact **I can profeccionaly make any coffee drink.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/nina-samykova-1522a225b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nina-samykova-1522a225b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samnina805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samnina805" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
