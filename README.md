@@ -8,9 +8,9 @@
 - 👨‍💻 All of my projects are available at [my portfolio](https://nnisik.github.io/)
 
 - 📫 How to reach me **samnina805@gmail.com**
-
+<!--
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/12Gshvfu5TSJPvaWMpJ9f2slWQRFeacwAU9Ai-pacwR0/edit?usp=sharing)
-
+-->
 - ⚡ Fun fact **I can profeccionaly make any coffee drink.**
 
 
