@@ -29,7 +29,3 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/></a>
   <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="30" height="30"/></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnisik&show_icons=true&locale=en&layout=compact" alt="nnisik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nnisik&show_icons=true&locale=en" alt="nnisik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnisik&" alt="nnisik" /></p>
