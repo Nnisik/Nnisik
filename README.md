@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **samnina805@gmail.com**
 
-- ⚡ Fun fact **I can profeccionaly make any type of coffee drink.**
-
+- ⚡ Fun fact **I can profeccionaly make any type of coffee drink.** ☕️
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nisamykova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nina-samykova-1522a225b" height="30" width="40" /></a>
