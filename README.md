@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Nina</h1>
 <h3>A passionate junior full-stack web developer</h3>
 
-- 🔭 I’m currently working on [auction page project](https://github.com/Nnisik/you-need-it-auction)
+- 🔭 I’m currently working on [photo album](https://github.com/Nnisik/photo-album)
 - 🌱 I’m currently learning **ReactJS & Java**
 - 📫 How to reach me **samnina805@gmail.com**
 
