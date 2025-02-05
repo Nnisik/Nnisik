@@ -5,7 +5,8 @@
 <!-- 
 ### ☀️Summary
 
-Developed Telegram bots: the latest project involved creating a schedule bot for college classes. Currently studying ML and DL, participating in hackathons, and constantly developing my skills.-->
+<!-- 
+Developed Telegram bots: the latest project involved creating a schedule bot for college classes. Currently studying ML and DL, participating in hackathons, and constantly developing my skills. -->
 
 ### 🐘Education 
 <a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Mathematics
