@@ -1,36 +1,139 @@
-<h1 align="center">Hi 👋, I'm Nina</h1>
-<h3 align="center">A passionate junior full-stack web developer</h3>
+<h1 align="center">Hi, I'm Nina 👋</h1>
+<h2>
+- FullStack Developer<br/>
+</h2>
+<!-- 
+### ☀️Summary
 
-- 🔭 I’m currently working on [AI-Powered Task Management System](https://github.com/Nnisik/AI-task-manager)
+Developed Telegram bots: the latest project involved creating a schedule bot for college classes. Currently studying ML and DL, participating in hackathons, and constantly developing my skills.-->
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://github.com/Nnisik/my-portfolio)
+### 🐘Education 
+<a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Mathematics
+<!--
+### 👨‍🎓Additional Education
+- [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
+- [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
+- [Bioinformatics Institute](https://stepik.org/course/76/syllabus): Fundamentals of statistics
 
-- 📫 How to reach me **samnina805@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.canva.com/design/DAGWXrDs-iQ/2z4TvkYPdL6HMpNsrGfnBA/edit?utm_content=DAGWXrDs-iQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### 🏆Competitions
+*  [IT Hackathon in Novgorod](https://hacks-ai.ru/) (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
+*  [BIV Hack Challenge](https://biv-challenge.ru/) (5/64) [2024] [NLP] - Automation of payment processing
+*  [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/#rec812246603) (11/52) [2024] [LLM] - CodeReview bot
+*  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (17/475) [2024] [API] - Interaction with API
+*  [Gameton DatsNewWay](https://datsteam.dev/datsnewway#promo) (21/466) [2024] API - Interaction with API
+*  [Crowdtesting](https://crowdtesting.ru/) (11/2564) [2024] [Crowdtesting] - FPS Testing
+*  [MTS True Tech Champ](https://truetechday.ru/hack) (finalist) [2024] [Algorithms] - algorithm development
+-->
+### 🌍Languages
+*   English: Advanced (C1)
+*   German: Intermediate (B1)
+*   Russian: Native
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nina-samykova-1522a225b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nina-samykova-1522a225b/" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+### Languages
+<table>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="js" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" /></a>
+        <br><h4>JavaScript</h4>
+    </td>
+    <td align="center" width="90"><img alt="python" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+        <br><h4>Python</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="java" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" /></a>
+        <br><h4>JavaL</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /></a>
+        <br><h4>HTML</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="CSS" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" /></a>
+        <br><h4>CSS</h4>
+    </td>
+</table>
+<!--
+### Libraries
+<table>
+    <td align="center" width="90">
+        <img alt="NumPy" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+        <br><h4>NumPy</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Pandas" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" />
+        <br><h4>Pandas</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Scikit-learn" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
+        <br><h4>Scikit-learn</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
+        <br><h4>Matplotlib</h4>
+    </td>
+</table>
+-->
 
-</p>
+### Frameworks
+<table>
+    <td align="center" width="90">
+        <img alt="React" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
+        <br><h4>React</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Flask" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
+        <br><h4>Flask</h4>
+    </td>
+</table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnisik&show_icons=true&locale=en&layout=compact" alt="nnisik" /></p>
+### Tools
+<table>
+    <td align="center" width="90">
+        <img alt="Git" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <br><h4>Git</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="GitHub" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
+        <br><h4>GitHub</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="VSCode" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <br><h4>VS Code</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="webstorm" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=32sNCVhNAx9Y&format=png&color=000000" />
+        <br><h4>WebStorm</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="pycharm" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" />
+        <br><h4>PyCharm</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="IntelliJ" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000" />
+        <br><h4>IntelliJ</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Postman" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
+        <br><h4>Postman</h4>
+    </td>
+</table>
+
+### Databases
+<table>
+    <td align="center" width="90">
+        <img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
+        <br><h4>PostgreSQL</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
+        <br><h4>SQLite</h4>
+    </td>
+</table>
+
+<br clear="both" />
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
+
+<br clear="both" />
