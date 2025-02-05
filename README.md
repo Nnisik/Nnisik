@@ -43,7 +43,7 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
     </td>
     <td align="center" width="90">
         <a href="https://csharp-station.com/" target="_blank"><img alt="java" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" /></a>
-        <br><h4>JavaL</h4>
+        <br><h4>Java</h4>
     </td>
     <td align="center" width="90">
         <a href="https://csharp-station.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /></a>
