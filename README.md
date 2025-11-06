@@ -7,7 +7,7 @@
 Currently studying Data Science.
 
 ### 🐘Education 
-# University of Vienna | Vienna | BS | Mathematical Foundations of Data Science
+- University of Vienna | Vienna | BS | Mathematical Foundations of Data Science
 
 ### 👨‍🎓Additional Education
 - [Yandex Practicum](https://dls.samcs.ru/): Fullstack Software Testing
