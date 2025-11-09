@@ -31,10 +31,10 @@ Currently studying Data Science.
         <a href="https://csharp-station.com/" target="_blank"><img alt="ts" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" /></a>
         <br><h4>TypeScript</h4>
     </td>
-    <!--
     <td align="center" width="90"><img alt="python" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
         <br><h4>Python</h4>
     </td>
+    <!--
     <td align="center" width="90">
         <a href="https://csharp-station.com/" target="_blank"><img alt="java" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" /></a>
         <br><h4>Java</h4>
