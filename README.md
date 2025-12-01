@@ -83,13 +83,13 @@ Currently studying Data Science.
 </table>
 -->
 
-<!--
 ### Frameworks
 <table>
+<!--
     <td align="center" width="90">
         <img alt="Flask" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
         <br><h4>Flask</h4>
-    </td>
+    </td>-->
     <td align="center" width="90">
         <img alt="node" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
         <br><h4>NodeJS</h4>
@@ -97,7 +97,7 @@ Currently studying Data Science.
     <td align="center" width="90">
         <img alt="express" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" />
         <br><h4>Express JS</h4>
-    </td>
+    </td><!--
     <td align="center" width="90">
         <img alt="nestjs" width="45" height="45" style="padding:10px;" src="" />
         <br><h4>Nest JS</h4>
@@ -137,8 +137,8 @@ Currently studying Data Science.
     <td align="center" width="90">
         <img alt="pytest" width="45" height="45" style="padding:10px;" src="" />
         <br><h4>PyTest</h4>
-    </td>
-</table>-->
+    </td>-->
+</table>
 
 ### Tools
 <table>
@@ -196,7 +196,6 @@ Currently studying Data Science.
     -->
 </table>
 
-<!--
 ### Databases
 <table>
     <td align="center" width="90">
@@ -207,11 +206,10 @@ Currently studying Data Science.
         <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
         <br><h4>SQLite</h4>
     </td>
-    
     <td align="center" width="90">
         <img alt="mongodb" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" />
         <br><h4>MongoDB</h4>
-    </td>
+    </td><!--
     <td align="center" width="90">
         <img alt="redis" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" />
         <br><h4>Redis</h4>
@@ -219,9 +217,8 @@ Currently studying Data Science.
     <td align="center" width="90">
         <img alt="clickhouse" width="45" height="45" style="padding:10px;" src="" />
         <br><h4>Clickhouse</h4>
-    </td>
+    </td>-->
 </table>
--->
 
 <br clear="both" />
 
