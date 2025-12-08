@@ -14,6 +14,7 @@ Currently studying Data Science.
 
 ### 🏆Competitions
 *  [Cloudflight Coding Contest](https://register.codingcontest.org/info/how-it-works) [2024]
+*  [Cloudflight Coding Contest](https://register.codingcontest.org/info/how-it-works) [2025]
 
 ### 🌍Languages
 *   English: Advanced (C1)
