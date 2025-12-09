@@ -20,204 +20,60 @@ Currently studying Data Science.
 
 
 ### Languages
-<table>
-    <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="java" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" /></a>
-        <br><h4>Java</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="js" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" /></a>
-        <br><h4>JavaScript</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="ts" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" /></a>
-        <br><h4>TypeScript</h4>
-    </td>
-    <td align="center" width="90"><img alt="python" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
-        <br><h4>Python</h4>
-    </td>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+</p>
 
-### Frontend Tools and Frameworks
-<table>
-    <td align="center" width="90">
-        <img alt="React" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
-        <br><h4>React</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /></a>
-        <br><h4>HTML</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="CSS" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" /></a>
-        <br><h4>CSS</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="sass" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" />
-        <br><h4>SaSS</h4>
-    </td>
-</table>
-<!--
-### Libraries
-<table>
-    <td align="center" width="90">
-        <img alt="NumPy" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-        <br><h4>NumPy</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Pandas" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" />
-        <br><h4>Pandas</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Scikit-learn" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
-        <br><h4>Scikit-learn</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
-        <br><h4>Matplotlib</h4>
-    </td>
-</table>
--->
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnisik&show_icons=true&locale=en&layout=compact" alt="nnisik" />
+</p>
 
-### Frameworks
-<table>
-<!--
-    <td align="center" width="90">
-        <img alt="Flask" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
-        <br><h4>Flask</h4>
-    </td>-->
-    <td align="center" width="90">
-        <img alt="node" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
-        <br><h4>NodeJS</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="express" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" />
-        <br><h4>Express JS</h4>
-    </td><!--
-    <td align="center" width="90">
-        <img alt="nestjs" width="45" height="45" style="padding:10px;" src="" />
-        <br><h4>Nest JS</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="redux" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" />
-        <br><h4>Redux</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="django" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000" />
-        <br><h4>Django</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="fastapi" width="45" height="45" style="padding:10px;" src="" />
-        <br><h4>FastAPI</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="scrapyt" width="45" height="45" style="padding:10px;" src="" />
-        <br><h4>Scrapy</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="selenium" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=45348&format=png&color=000000" />
-        <br><h4>Selenium</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="nginxk" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" />
-        <br><h4>Nginx</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="spring" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" />
-        <br><h4>Spring</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="bootstrap" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" />
-        <br><h4>Bootstrap</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="pytest" width="45" height="45" style="padding:10px;" src="" />
-        <br><h4>PyTest</h4>
-    </td>-->
-</table>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnisik&show_icons=true&locale=en" alt="nnisik" />
+</p>
 
-### Tools
-<table>
-    <td align="center" width="90">
-        <img alt="Git" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <br><h4>Git</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="GitHub" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
-        <br><h4>GitHub</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="VSCode" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <br><h4>VS Code</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="webstorm" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=32sNCVhNAx9Y&format=png&color=000000" />
-        <br><h4>WebStorm</h4>
-    </td>
-    <!--
-    <td align="center" width="90">
-        <img alt="pycharm" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" />
-        <br><h4>PyCharm</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="IntelliJ" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000" />
-        <br><h4>IntelliJ</h4>
-    </td>
-    -->
-    <td align="center" width="90">
-        <img alt="Postman" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
-        <br><h4>Postman</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="webpack" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000" />
-        <br><h4>Webpack</h4>
-    </td>
-    <!--
-    <td align="center" width="90">
-        <img alt="linux" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" />
-        <br><h4>Linux</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="docker" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000" />
-        <br><h4>Docker</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="hibernater" width="45" height="45" style="padding:10px;" src="" />
-        <br><h4>Hibernate</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="kafka" width="45" height="45" style="padding:10px;" src="" />
-        <br><h4>Kafka</h4>
-    </td>
-    -->
-</table>
-
-### Databases
-<table>
-    <td align="center" width="90">
-        <img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
-        <br><h4>PostgreSQL</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
-        <br><h4>SQLite</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="mongodb" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" />
-        <br><h4>MongoDB</h4>
-    </td><!--
-    <td align="center" width="90">
-        <img alt="redis" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" />
-        <br><h4>Redis</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="clickhouse" width="45" height="45" style="padding:10px;" src="" />
-        <br><h4>Clickhouse</h4>
-    </td>-->
-</table>
-
-<br clear="both" />
-
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnisik&" alt="nnisik" />
+</p>
+    
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
 <br clear="both" />
