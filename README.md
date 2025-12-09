@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Nina 👋</h1>
-<h3>
-- JavaScript Developer<br/>
-</h3>
 
 ### ☀️Summary
 Currently studying Data Science.
