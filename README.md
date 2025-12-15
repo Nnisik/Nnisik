@@ -66,6 +66,7 @@ Currently studying Data Science.
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnisik&show_icons=true&locale=en&layout=compact" alt="nnisik" />
 </p>
 
+<!--
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnisik&show_icons=true&locale=en" alt="nnisik" />
 </p>
@@ -74,6 +75,7 @@ Currently studying Data Science.
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnisik&" alt="nnisik" />
 </p>
     
+-->
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
 <br clear="both" />
