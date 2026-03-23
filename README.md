@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Nina 👋</h1>
 
 ### ☀️Summary
-Currently studying Data Science.
+Currently studying Data Science in University of Vienna.
 
 ### 🐘Education 
 - University of Vienna | Vienna | BS | Mathematical Foundations of Data Science
+- NUST MISIS | Moscow | BS | Appled Mathematics
 
 ### 👨‍🎓Additional Education
 - [Yandex Practicum](https://dls.samcs.ru/): Fullstack Software Testing
