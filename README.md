@@ -28,9 +28,7 @@ Currently studying Data Science in University of Vienna.
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vite/vite-original.svg" height="30" alt="vite logo"  />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/reactrouter/reactrouter-original.svg" height="30" alt="react-router logo"  />
 </div>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnisik&show_icons=true&locale=en&layout=compact" alt="nnisik" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnisik&show_icons=true&locale=en&layout=compact" alt="nnisik" /></p>
 <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <br clear="both">
 <div align="left">
@@ -41,6 +39,4 @@ Currently studying Data Science in University of Vienna.
 
 <br clear="both">
 
-<!-- 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
--->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="" />
